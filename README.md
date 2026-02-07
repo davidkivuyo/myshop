@@ -20,10 +20,10 @@ create new database named myshop and in it create three tables <img width="1279"
 * and the last third table name it solditems and add to it rows and columns as shown here <img width="1279" height="667" alt="Screenshot 2026-02-07 104657" src="https://github.com/user-attachments/assets/262d6e26-b1c3-44b0-a118-a2a13dacb543" />
 
 # start using myshop
-in your browser type ```http://localhost/myshop``` on address bar to open the interface
+in your browser type ```http://localhost/myshop``` on address bar to open the interface<br/>
 <img width="1919" height="970" alt="Screenshot 2026-02-07 123408" src="https://github.com/user-attachments/assets/cd905037-3c40-4248-95a6-1d2418eb14c1" />
 
-in it you can navigate to pages where you can add new sales , new stocks and debts during your business operations
+in it you can navigate to pages where you can add new sales , new stocks and debts during your business operations<br/>
 <img width="1919" height="1020" alt="Screenshot 2026-02-07 123631" src="https://github.com/user-attachments/assets/4b1febf8-9525-449e-931e-30621f317c17" />
 
 # i hope its helpfull even despite of its long procedures to setup but its worth it🫡
