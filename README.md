@@ -21,7 +21,12 @@ create new database named myshop and in it create three tables <img width="1279"
 
 # start using myshop
 in your browser type ```http://localhost/myshop``` on address bar to open the interface
+<img width="1919" height="970" alt="Screenshot 2026-02-07 123408" src="https://github.com/user-attachments/assets/cd905037-3c40-4248-95a6-1d2418eb14c1" />
+
 in it you can navigate to pages where you can add new sales , new stocks and debts during your business operations
+<img width="1919" height="1020" alt="Screenshot 2026-02-07 123631" src="https://github.com/user-attachments/assets/4b1febf8-9525-449e-931e-30621f317c17" />
+
+# i hope its helpfull even despite of its long procedures to setup but its worth it🫡
 
 
 
