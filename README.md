@@ -19,7 +19,9 @@ create new database named myshop and in it create three tables <img width="1279"
 * second table name it newproducts and also add to it rows and columns as shown <img width="1277" height="671" alt="Screenshot 2026-02-07 104638" src="https://github.com/user-attachments/assets/32ec5983-8ab1-4e15-bb46-38d3869b905b" />
 * and the last third table name it solditems and add to it rows and columns as shown here <img width="1279" height="667" alt="Screenshot 2026-02-07 104657" src="https://github.com/user-attachments/assets/262d6e26-b1c3-44b0-a118-a2a13dacb543" />
 
-
+# start using myshop
+in your browser type ```http://localhost/myshop``` on address bar to open the interface
+in it you can navigate to pages where you can add new sales , new stocks and debts during your business operations
 
 
 
