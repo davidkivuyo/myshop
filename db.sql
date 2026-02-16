@@ -1,1 +1,3 @@
 CREATE DATABASE "myshop";
+
+CREATE TABLE "debts";
