@@ -1,5 +1,7 @@
 # Myshop
-<img alt="Static Badge" src="https://img.shields.io/badge/myshop-store_now-orange">
+<img alt="Static Badge" src="https://img.shields.io/badge/myshop-manage_easily-orange">
+<img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%91%8B%F0%9F%8F%BC%F0%9F%91%8B%F0%9F%8F%BC-welcome_for_any_code_contribution-blue">
+
 
 One can store his/her shop sales, new products and debts during business. good for small businesses which needs storing of many of its operational details.
 # Getting started with myshop
