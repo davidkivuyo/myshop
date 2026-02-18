@@ -26,7 +26,11 @@ in your browser type ```http://localhost/myshop``` on address bar to open the in
 in it you can navigate to pages where you can add new sales , new stocks and debts during your business operations<br/>
 <img width="1919" height="1020" alt="Screenshot 2026-02-07 123631" src="https://github.com/user-attachments/assets/4b1febf8-9525-449e-931e-30621f317c17" />
 
-# i hope its helpfull despite of its long procedures to setup but its worth it🫡
+# finalizing setup
+i hope its helpfull despite of its long procedures to setup but its worth it🫡
+
+# Contributions
+Any contribution to this project is warmly welcome
 
 
 
