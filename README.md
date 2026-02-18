@@ -1,5 +1,5 @@
 # Myshop
-https://img.shields.io/badge/myshop-store_now-orange
+(https://img.shields.io/badge/myshop-store_now-orange)
 
 One can store his/her shop sales, new products and debts during business. good for small businesses which needs storing of many of its operational details.
 # Getting started with myshop
