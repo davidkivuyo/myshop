@@ -1,5 +1,7 @@
 # Myshop
+<img alt="Static Badge" src="https://img.shields.io/badge/bootstrap-made-white?style=plastic&logo=bootstrap">
 <img alt="Static Badge" src="https://img.shields.io/badge/myshop-manage_easily-orange">
+<img alt="Static Badge" src="https://img.shields.io/badge/using-php-logic?style=flat&logo=Php">
 <img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%91%8B%F0%9F%8F%BC%F0%9F%91%8B%F0%9F%8F%BC-welcome_for_any_code_contribution-blue">
 
 
