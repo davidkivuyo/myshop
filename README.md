@@ -13,7 +13,10 @@ One can store his/her shop sales, new products and debts during business. good f
 
 * open the terminal inside the 'myshop' folder <img width="1114" height="655" alt="Screenshot 2026-02-07 120609" src="https://github.com/user-attachments/assets/045d646f-fb99-47bc-ae9f-a374bf333fb5" />
 
-* inside the terminal run the following command   ```git clone https://github.com/davidkivuyo/myshop.git```
+* inside the terminal run the following command
+  ```
+  git clone https://github.com/davidkivuyo/myshop.git
+  ```
 
 # mysql database setup
 Go into your browser and type ```http://localhost/phpmyadmin``` on the address bar
